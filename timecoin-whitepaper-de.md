@@ -49,7 +49,7 @@ Alle Time Coins in der ursprünglichen Brieftasche können, da sie die Signatura
 
 Rein softwarebasierte virtuelle Umgebungen (ohne physischen PUF-Chip) können keine gültige Knotenidentität und Brieftasche generieren.
 
-Die Knotenrechte aller Geräte sind völlig gleich: Ein Raspberry Pi für 50 Yuan = ein Handy für 10.000 Yuan = ein Supercomputer für 100 Millionen Dollar.
+Die Knotenrechte aller Geräte sind völlig gleich: Ein Raspberry Pi für 50 $ = ein Handy für 10.000 $ = ein Supercomputer für 100 Millionen $.
 
 Jedes Gerät an jedem Ort erhält exakt denselben Ertrag pro Zeiteinheit.
 
